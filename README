@@ -1,4 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jielaizhang/PASEA-Dunlap-IAU_Internship/master)
 
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/jielaizhang/PASEA-Dunlap-IAU_Internship/master
+
 This is a git and github exercise for applicants to the PASEA-Dunlap-IAU Research Internship 2020.
 To complete the exercise, please answer the short questions in Application_Exercise.txt, save, git add, git commit and git push. 
